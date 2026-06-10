@@ -1,4 +1,4 @@
-# 
+# Ultimato Practical AI Projects for Students plugins. Com redes neurais e reconhecimento de imagens — otimizado para máximo desempenho.
 
 
 
